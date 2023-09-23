@@ -43,9 +43,9 @@ Projektverzeichnis/
 ## Datenstruktur
 Die Datenstruktur für die Beispieldaten sollte wie folgt aussehen:
 
-- `Fulldata_age.csv`: Dies ist eine CSV-Datei, die die Hauptdatenquelle für das Projekt darstellt.
+- `Fulldata_age.csv`: Dies ist eine CSV-Datei, die die Hauptdatenquelle für das Projekt darstellt und die maschinellen Lernalgorithmen trainiert.
 
-- `BPW_CSV/`: Dies ist ein Unterordner, der mehrere CSV-Dateien enthält. Diese Dateien können zusätzliche Daten oder Datensätze für Ihr Projekt enthalten.
+- `BPW_CSV/`: Dies ist ein Unterordner, der mehrere CSV-Dateien enthält.
 
 ## Ausführen der Pipelines
 Die Pipelines in diesem Projekt sind unabhängig voneinander und können einzeln ausgeführt werden. Jedes Jupyter Notebook enthält eine spezifische Pipeline mit entsprechenden Anweisungen zur Ausführung. Führen Sie die folgenden Schritte aus, um eine Pipeline auszuführen:
